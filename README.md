@@ -1,5 +1,5 @@
 # anubis
-G-Nut/Anubis 基于VS2019配置Windows可执行文件，2.3版本
+G-Nut/Anubis 基于VS2019配置Windows可执行文件以及VS项目，2.3版本
 是一款在原始观测值层面，提供多频多系统GNSS观测值质量检测与评估的开源C++程序，是GNSS领域为数不多的开放源代码的数据预处理和分析软件包之一。不过官方不免费提供Windows版本可执行文件，需要自己编译。
 
 该软件始于捷克的国家大地测量局、地形与地图制图研究所（Geodetic observatory Pecny (GOP)，Research Institute of Geodesy, Topography and Cartography in Czech Republic）于2011年启动的G-Nut项目。目前最新版为2020-07-18 发布的2.3版本（https://www.pecny.cz/gop/index.php/gnss/sw/anubis）。
